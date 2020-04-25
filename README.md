@@ -6,3 +6,10 @@ Files and directories that we explicitly add to the staging area
 
 #Git Repository
 Where allour snapshots are stored
+
+here we have the timeliness of
+
+       O----O----O----O
+      /              /
+     /              /
+----O----O----O----O
